@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: maroon;
+}
+
+input{  border-radius: 100px;
+    background:white;
+    padding: 10px; 
+    width: 100px;
+    height: 35px;
+    font-size:20px;
+    font-weight: bold;
+    font-family: monospace;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.subm{border-radius:100px;
+    background:white;
+    width: 110px;
+    height: 40px;
+    font-size:20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+h3{text-align: center;color: maroon;}
+h4{     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  }
+h2{   margin: 4%; text-align: right; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  }
+output{
+    font-weight: bold;
+    font-size:20px;
+    color: midnightblue;
+
+}
